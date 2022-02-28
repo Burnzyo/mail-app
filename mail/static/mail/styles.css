@@ -1,0 +1,27 @@
+textarea {
+    min-height: 400px;
+}
+
+.inboxMail {
+    border: solid black 2px;
+    display: flex;
+    align-items: center;
+    height: 45px;
+    padding-right: 5px;
+}
+
+.gotomail {
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+.sentDate {
+    padding: 5px;
+    font-family: sans-serif;
+    color: rgb(155, 151, 151);
+    margin-left: auto;
+}
+
+.read {
+    background-color: lightgray;
+}
